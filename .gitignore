@@ -1,0 +1,33 @@
+# Folder virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# File dan folder hasil kompilasi Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# File konfigurasi lingkungan
+.env
+.env.*
+
+# File editor & OS
+*.log
+*.sqlite3
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Python bytecode
+*.pyc
+
+# File dependency (jika menggunakan requirements.txt)
+pip-log.txt
+
+# Backup
+*.bak
+*.swp
