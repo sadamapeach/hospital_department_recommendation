@@ -4,8 +4,8 @@
 Proyek ini adalah aplikasi FastAPI sederhana untuk memberikan rekomendasi berdasarkan input user, menggunakan layanan API dari Google Gemini.
 
 Adapun input user merupakan data pasien yang mencakup:  
-    - Gender
-    - Age
+    - Gender  
+    - Age  
     - Symptoms
 
 Dari data pasien ini akan muncul departemen rumah sakit yang sesuai.
