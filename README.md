@@ -24,7 +24,7 @@ Dari data pasien ini akan muncul departemen rumah sakit yang sesuai.
     cd nama-repo
 2. **Buat dan aktifkan virtual environment**  
     python -m venv venv  
-    '''bash
+    '''bash  
     source venv/Scripts/activate
 3. **Install dependencies**  
     pip install -r requirements.txt
