@@ -21,7 +21,7 @@ Dari data pasien ini akan muncul departemen rumah sakit yang sesuai.
 1. **Clone repositori**  
     '''bash  
     git clone https://github.com/username/name-repo.git  
-    cd nama-repo
+    cd name-repo
 2. **Buat dan aktifkan virtual environment**  
     python -m venv venv  
     '''bash  
