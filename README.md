@@ -34,7 +34,7 @@ Dari data pasien ini akan muncul departemen rumah sakit yang sesuai.
     '''bash  
     cp .env.example .env
 2. **Masukkan api key anda**  
-    GOOGLE_API_KEY=your_gemini_api_key
+    GOOGLE_API_KEY=your_google_api_key_here
 
 ## Menjalankan Aplikasi
 '''bash  
